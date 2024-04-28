@@ -1,8 +1,8 @@
-baseURL = "https://label.drylungs.at"
-title = "Dry Lungs"
+baseURL = "https://malfunzionatomusicgroup.com"
+title = "Malfunzionato Music Group"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-theme_color = "#000000"
+theme_color = "#0600ff"
 disableHugoGeneratorInject = true
 
 [params]
