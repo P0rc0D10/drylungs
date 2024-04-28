@@ -2,7 +2,7 @@ baseURL = "https://malfunzionatomusicgroup.com"
 title = "Malfunzionato Music Group"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-theme_color = "#0600ff"
+theme_color = "#000000"
 disableHugoGeneratorInject = true
 
 [params]
