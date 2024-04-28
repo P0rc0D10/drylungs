@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "About Dry Lungs Records"
+description: "About Malfunzionato Music Group"
 menu:
   nav:
     weight: 200

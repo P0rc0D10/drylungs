@@ -18,8 +18,8 @@ disableHugoGeneratorInject = true
 [params.social]
     bigcartel = { user = "drylungs", uri = "https://drylungs.bigcartel.com/" }
     discogs = { user = "KureKureTakora", uri = "https://www.discogs.com/seller/KureKureTakora" }
-    instagram = { user = "drylungsrecords", uri = "https://www.instagram.com/drylungsrecords" }
-    twitter = "DryLungsRecords"
+    instagram = { user = "drylungsrecords", uri = "https://www.instagram.com/malfunzionato" }
+    twitter = "malfunzionatomg"
 
 [author]
     email="tong@disktree.net"
